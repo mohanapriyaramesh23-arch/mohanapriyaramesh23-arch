@@ -22,12 +22,9 @@ Python Developer · Generative AI · LangChain · RAG Systems · Chennai
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-![Mohana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanapriyaramesh23-arch&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=e2e8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapriyaramesh23-arch&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=e2e8f0)
-
+![Mohana's GitHub Stats](https://streak-stats.demolab.com?user=mohanapriyaramesh23-arch&theme=dark&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa)
 
 
 
